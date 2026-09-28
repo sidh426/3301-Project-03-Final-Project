@@ -5,7 +5,7 @@ A two-page personal portfolio website built and managed as the final project for
 ## About This Project
 This repository contains a complete project package: the planning documentation that scoped and guided the work, the finished two-page website, and a retrospective on the process. The site introduces me and my experience as an IT intern at Harris Health System alongside my Computing Applications coursework at Texas Tech University.
 
-**Live site:** 
+**Live site:**  https://sidh426.github.io/3301-Project-03-Final-Project/
 
 ## Repository Structure
 ```
